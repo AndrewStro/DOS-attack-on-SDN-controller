@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Andrew Strong: The entirety of this program was written by me to retrieve switch flows, parse them, and add rules to switch if it detects a DoS attack.
 import subprocess
 import time
 def main():
